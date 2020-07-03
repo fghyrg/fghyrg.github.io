@@ -1,8 +1,8 @@
 # Site settings
-name: name
-email: email
-url: url
-description: "A blog and a portfolio"
+name: sujin
+email: sjpark@bitoplus.co.kr
+url: http://fghyrg.github.io/
+description: "bito test"
 author: "author"
 title: "BlogFolio"
 permalink: pretty
